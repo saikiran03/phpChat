@@ -29,7 +29,6 @@
 	<div class='col-md-3'></div>
 </div>
 
-
 <?php
 	include 'footer.php';
 ?>
